@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 Ye dashboard **Madhav E-commerce** ki sales ka complete analysis hai. Is project ka main purpose sales trends, customer behavior, aur profitability ko track karna hai taaki business decisions behtar liye ja sakein.
 
-## 🚀 Key Insights (Finding)
+## 🚀 Key Insights  (Finding)
 Dashboard ke analysis se ye baatein pata chalti hain:
 - **Total Sales:** Kul **13K** ka amount generate hua hai aur **146** items sell huye hain.
 - **Top Category:** Sabse zyada sale **Clothing (59%)** category mein hui hai.
