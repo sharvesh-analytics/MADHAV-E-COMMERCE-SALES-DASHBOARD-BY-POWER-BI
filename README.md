@@ -16,9 +16,3 @@ Dashboard ke analysis se ye baatein pata chalti hain:
 - **Power Query** (Data Cleaning)
 - **Excel/CSV** (Data Source)
 
-## 📂 How to use this repository
-1. Is repo se `.pbix` file download karein.
-2. Apne PC mein **Power BI Desktop** install karein.
-3. File open karke aap interactive filters (Slicers) ka use karke data dekh sakte hain.
-
-4.
