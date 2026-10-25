@@ -1,7 +1,7 @@
 # Madhav E-Commerce Sales Dashboard (Power BI)
 
 ## 📊 Project Overview
-Ye dashboard **Madhav E-commerce** ki sales ka complete analysis hai. Is project ka main purpose sales trends, customer behavior, aur profitability ko track karna hai taaki business decisions behtar liye ja sakein.
+Ye dashboard **Madhav E-commerce Sales** ki sales ka complete analysis hai. Is project ka main purpose sales trends, customer behavior, aur profitability ko track karna hai taaki business decisions behtar liye ja sakein.
 
 ## 🚀 Key Insights  (Finding)
 Dashboard ke analysis se ye baatein pata chalti hain:
